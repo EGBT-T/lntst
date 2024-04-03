@@ -15,4 +15,7 @@ message = 'LN 測試'
 # 修改為你的權杖內容
 token = 'eIplq8T6t66metodHRGahEUNr9eiJCY6Pvsq9hKlRSm'
 
+print('123')
+print('456')
+
 lineNotifyMessage(token, message)
